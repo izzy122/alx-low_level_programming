@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- *print_alphabets -> prints alphabets
- *
+ * print_alphabet - prints alphabet
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	int j;
-	for (j = 'a'; j <= 'z'; j++)
-	{
-	_putchar(j);
-	}
-_putchar('\n');
+int i;
+
+for (i ='a'; i <= 'z'; i++)
+{
+	_putchar(i);
+}
+	_putchar('\n');
 }

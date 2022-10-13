@@ -1,1 +1,1 @@
-this is a my first project on c
+ this is my first C programming ptoject 
